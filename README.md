@@ -3,7 +3,7 @@ Para este proyecto se usó: python 3.9.7 pero versiones nuevas funcionan igualme
 
 ## Pasos para Ejecutar el proyecto
 - Crear un entorno virtual
-- Después de activar el entorno virtual debe instalar los modulos desde requirements.txt
+- Después de activar el entorno virtual debe instalar los modulos desde poetry
 ``` 
 poetry update
 ```
