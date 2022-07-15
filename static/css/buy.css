@@ -24,7 +24,7 @@ html, body{
 	display:flex;
 	flex-direction:row;
 	box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
-	background-color:#494be3;
+	background-color:#FF9900;
 	color:white;
 }
 
@@ -38,7 +38,7 @@ html, body{
 	text-decoration:none;
 	padding:1rem;
 	border:0;
-	background-color:#494be3;
+	background-color:#FF9900;
 	color:white;
 }
 
@@ -46,7 +46,7 @@ html, body{
 	padding:1rem;
 	border:0;
 	width:100%;
-	background-color:#494be3;
+	background-color:#FF9900;
 	color:white;
 }
 
