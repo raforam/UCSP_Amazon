@@ -5,7 +5,7 @@ Para este proyecto se usó: python 3.9.7 pero versiones nuevas funcionan igualme
 - Crear un entorno virtual
 - Después de activar el entorno virtual debe instalar los modulos desde requirements.txt
 ``` 
-pip install requirements.txt
+poetry update
 ```
 - Debe configurar el puerto, usuario y contraseña de la base de datos en el archivo .env (variables de entorno en desarrollo) Por defecto los datos de .env son 'DATABASE_USER=root', 'DATABASE_PASSWORD=ucspucsp' y 'DATABASE_DB=amazon'
 - Opcionalmente, hay un script llamado crear_base.py que le permitira crear las tablas de este proyecto, 
